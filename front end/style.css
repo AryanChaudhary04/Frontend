@@ -1,0 +1,20 @@
+.table,
+thead,
+td {
+  border: 2px solid red;
+}
+
+.hello {
+  padding: 10px;
+  margin: 10px;
+  border: 10px solid red;
+}
+
+.CSS{
+    border: 10px solid green;
+}
+
+span{
+    border: 3px solid black;
+
+}
